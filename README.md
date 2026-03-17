@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This lab focuses on improving accessibility using JavaScript by implementing proper keyboard interaction and focus management.
 
