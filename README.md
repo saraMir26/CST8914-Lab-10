@@ -4,8 +4,8 @@
 
 ##  Project Files
 
--  [Focus HTML File](./Focus.html)
--  [JavaScript File](./menufunction.js)
+-  [Focus HTML File]()
+-  [JavaScript File](./Focus_files/menufunction.js)
 
 ---
 
